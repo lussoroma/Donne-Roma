@@ -2,21 +2,27 @@
 
 ![Donne Roma cover](./donne-roma-cover.png)
 
+*Riferimenti selezionati, presenza digitale curata e materiali editoriali dedicati a Roma.*
 
-Donne Roma e un repository pubblico di riferimento pensato per raccogliere risorse curate, collegamenti verificati e materiali editoriali dedicati alla presenza digitale su Roma.
+Donne Roma è uno spazio pubblico di riferimento pensato per raccogliere collegamenti utili, risorse visuali e contenuti di presentazione legati a Roma, con un'impostazione più ordinata, sobria e coerente.
 
-L'obiettivo e mantenere una presentazione ordinata, coerente e facilmente consultabile, con particolare attenzione alla qualita dei contenuti e alla chiarezza dei riferimenti pubblici.
+L'obiettivo non è creare un repository tecnico, ma mantenere una piccola base pubblica di materiali chiari, leggibili e verificabili, utile per una presenza digitale più curata.
 
-## Risorsa principale
+## Riferimento principale
 
-- Donne Roma su Escorta: https://www.escorta.com/escorts/donna/roma1
+- [Donne Roma su Escorta](https://www.escorta.com/escorts/donna/roma1)
 
-## Contenuti del repository
+## Cosa raccoglie questo repository
 
-- riferimenti pubblici collegati a Roma
-- materiali visuali e note editoriali
-- collegamenti selezionati per una presenza digitale piu coerente
+- collegamenti pubblici dedicati a Roma
+- materiali visuali con taglio editoriale
+- riferimenti utili per una presentazione più coerente
+- contenuti semplici da consultare e aggiornare
 
-## Nota
+## Approccio
 
-Questo repository e mantenuto come punto di riferimento pubblico e non come progetto software destinato alla produzione.
+Il progetto segue una linea visiva ed editoriale pulita: immagini selezionate con attenzione, tono discreto, collegamenti diretti e struttura leggibile. L'idea è offrire una presenza più ordinata, senza eccessi e senza impostazioni aggressive.
+
+## Nota finale
+
+Questo repository viene mantenuto come riferimento pubblico e archivio leggero di supporto. Non è pensato come prodotto software o come progetto destinato alla produzione tecnica.
